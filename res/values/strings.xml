@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Homework 312</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="no_articles_message">There are no articles to display. Shake to refresh the list.</string>
+    <string name="articles_loading_message">Articles are Loading</string>
+    <string name="refreshing">Refreshing</string>
+    <color name="refresh_blue">#900000ef</color>
+    <string name="clear_articles">Clear Articles</string>
+
+</resources>
